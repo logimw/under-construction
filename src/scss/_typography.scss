@@ -1,0 +1,12 @@
+.contact-title {
+  font-size: 3rem;
+  @include mobile {
+    font-size: 2.5rem;
+  }
+}
+.info {
+  font-size: 2.5rem;
+  @include mobile {
+    font-size: 2rem;
+  }
+}
