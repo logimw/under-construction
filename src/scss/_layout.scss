@@ -2,6 +2,7 @@ body {
   background-image: linear-gradient(to right bottom, $primary, $secondary);
   background-attachment: fixed;
   min-height: 100vh;
+  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
